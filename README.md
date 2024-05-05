@@ -3,10 +3,10 @@ Welcome to My GitHub Profile!
 Hey there! 👋 I'm [Your Name], a computer engineering student in my 10th semester. I'm passionate about software development, particularly in the realm of web technologies. Currently, I'm focusing on mastering JavaScript along with its popular frameworks, React and Node.js.
 About Me
 
-    🎓 I'm currently pursuing my Bachelor's degree in Computer Engineering.
-    💻 I have hands-on experience with JavaScript, React, and Node.js.
-    🌱 I'm constantly learning and exploring new technologies to expand my skill set.
-    🤝 I'm open to collaboration and always eager to work on exciting projects.
+    - 🎓 I'm currently pursuing my Bachelor's degree in Computer Engineering.
+    - 💻 I have hands-on experience with JavaScript, React, and Node.js.
+    - 🌱 I'm constantly learning and exploring new technologies to expand my skill set.
+    - 🤝 I'm open to collaboration and always eager to work on exciting projects.
 
 What I Do
 
