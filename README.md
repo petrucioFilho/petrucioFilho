@@ -1,22 +1,30 @@
-Welcome to My GitHub Profile!
+## Olá! Eu sou o Petrucio Filho
 
-Hey there! 👋 I'm Petrucio, a computer engineering student in my 10th semester. I'm passionate about software development, particularly in the realm of web technologies. Currently, I'm focusing on mastering JavaScript along with its popular frameworks, React and Node.js.
-About Me
+### Sou estudande de Engenharia de Computação, na Universidade Federal do Ceará - Campus Quixadá.
 
- - 🎓 I'm currently pursuing my Bachelor's degree in Computer Engineering.
- - 💻 I have hands-on experience with JavaScript, React, and Node.js.
- - 🌱 I'm constantly learning and exploring new technologies to expand my skill set.
- - 🤝 I'm open to collaboration and always eager to work on exciting projects.
+<div>
+  <a href="https://github.com/petrucioFilho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=petrucioFilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrucioFilho&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+</div>
+<div style="display: inline_block"><br>
+  <img height="30" width="30" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" />
+  <img height="30" width="30" src="https://img.icons8.com/?id=BUnExfsRs3CW&format=png&color=000000" />
+  <img height="30" width="30" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  </div>
+  
+  ##
 
-What I Do
-
-I enjoy building dynamic and interactive web applications using the power of JavaScript. Whether it's crafting responsive user interfaces with React or building scalable backend systems with Node.js, I thrive on turning ideas into reality through code.
-Get in Touch
-
-📫 Feel free to reach out to me via email petrucioneves22@gmail.com or connect with me on LinkedIn if you're interested in collaborating or just want to chat about tech!
-
-Thanks for stopping by! 😊
-<!---
-petrucioFilho/petrucioFilho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <div> 
+  <a href = "mailto:petrucioneves22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/petrucio-filho-neves-4821911b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
